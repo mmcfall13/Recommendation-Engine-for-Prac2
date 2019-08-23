@@ -38,8 +38,12 @@ Overall creating the recommender engines was a fun and entertaining task, unfort
 REFERENCES USED IN PROJECT
 
 Jain, A. (2016, June 2). Quick Guide to Build a Recommendation Engine in Python & R. Retrieved from https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python/.
+
 Le, E. (2017, April 23). How to build a simple song recommender system. Retrieved from https://towardsdatascience.com/how-to-build-a-simple-song-recommender-296fcbc8c85.
+
 Raval, S. (2017, February 8). Building a song recommender. Retrieved from https://github.com/llSourcell/recommender_live/blob/master/Song%20Recommender_Python.ipynb.
+
 Rstudio Script Reference:
+
 Mueller, J. P., Massaron, L. (2016). Machine Learning for Dummies. Hoboken, NJ: John Wiley & Sons, Inc.
 
